@@ -4,3 +4,4 @@ i have completed my hsc in 2021
 i have not completed my bsc
 i do not complete may msc
 i live in bangladesh
+logo aligment is centered.
