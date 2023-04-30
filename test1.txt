@@ -7,3 +7,4 @@ i live in bangladesh
 logo aligment is centered.
 my school name is shishukunja school.
 home button aligment is left.
+start button aligment is right.
